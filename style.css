@@ -1,10 +1,12 @@
+<!DOCTYPE css>
 <head>
   <style>
     body {
-      background-color: lightblue;
+      background-color: navy;
           }
     h1 {
-      color: navy;
+      color: cream;
+      text-align: center;
         }
     </style>
 </head>
