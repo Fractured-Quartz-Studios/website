@@ -1,11 +1,7 @@
-<head>
-  <style>
-    body {
-      background-color: navy;
-          }
-    h1 {
-      color: cream;
-      text-align: center;
-        }
-    </style>
-</head>
+body {
+background-color: navy;
+  }
+h1 {
+color: cream;
+text-align: center;
+  }
