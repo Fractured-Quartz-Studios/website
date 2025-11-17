@@ -1,7 +1,9 @@
 body {
-background-color: #204040;
+  background-color: #204040;
+  font-size: 16px;
   }
 h1 {
-color: #F5F5DC;
-text-align: center;
+  color: #F5F5DC;
+  text-align: center;
+  font-size: 3rem;
   }
