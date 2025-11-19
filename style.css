@@ -30,3 +30,11 @@ img {
 margin-left: 1vw;
 margin-top: 1vw;
 }
+.container {
+ display: flex;
+}
+.container h1{
+ text-align: center;
+ margin-right: 20vw;
+ margin-left: 20vw;
+}
