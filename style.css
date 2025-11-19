@@ -20,12 +20,13 @@ h3 {
 }
 ul {
   text-align: center;
+  padding: 0;
 }
 li {
   color: #F5F5DC;
   text-align: center;
 }
 img {
-margin-left: 12px;
-margin-top: 12px;
+margin-left: 1vw;
+margin-top: 1vw;
 }
