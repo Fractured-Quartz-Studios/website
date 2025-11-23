@@ -26,7 +26,7 @@ li {
   color: #F5F5DC;
   text-align: center;
 }
-img {
+.container img {
 margin-left: 1vw;
 margin-top: 1vw;
 }
@@ -35,6 +35,5 @@ margin-top: 1vw;
 }
 .container h1{
  text-align: center;
- margin-right: 20vw;
- margin-left: 20vw;
+ margin-left: 27.5vw;
 }
